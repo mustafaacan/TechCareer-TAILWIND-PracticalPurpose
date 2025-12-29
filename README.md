@@ -3,7 +3,6 @@ Just Practical Purposes for more example, please visit https://www.techcareer.ne
 
 # TechCareer-Tailwind-PracticalPurpose
 
-```
-sh
-npm init -y
-```
+While creating project, version 3.4.17 has used for Tailwind. For more detailed creation steps, please follow the Bash comment on the official website
+
+**https://v3.tailwindcss.com/docs/guides/vite**
