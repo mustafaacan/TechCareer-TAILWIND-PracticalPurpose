@@ -2,3 +2,8 @@ Just Practical Purposes for more example, please visit https://www.techcareer.ne
 
 
 # TechCareer-Tailwind-PracticalPurpose
+
+```
+sh
+npm init -y
+```
