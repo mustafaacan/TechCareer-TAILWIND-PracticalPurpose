@@ -15,10 +15,14 @@ While creating project, version 3.4.17 has been used for Tailwind. For more deta
 
 1) Create a Working Directory, then open the terminal and change your path using the Bash command “cd YourProjectName”.
 2) Open the first link and follow all the steps.
+   
    ***Note:*** Before following the steps, you can enter the Bash command “npm init -y” or “npm init” to add the package.json file and edit it according to your needs.
-3) Don't forget to edit the content values in the tailwind.config.json file.
-4) You can shorten or automate terminal operations by adding new keyword content to the package.json file. For example, "run" keyword has added to run the program from terminal.
-   For more detailed information, please read the second link above. 
+4) Don't forget to edit the content values in the tailwind.config.json file.
+5) You can shorten or automate terminal operations by adding new keyword content to the package.json file. For example, "run" keyword has added to run the program from terminal.
+   For more detailed information, please read the second link above.
+6) Don't forget to add the "output.css" to your HTML file as link.
+  
+   ***Note:*** output.css file will be generated automatically after build process.
 
 ## Run
 
