@@ -5,11 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>First Tailwind Project</title>
 
-    <!-- Google Fonts -->
+    <!-- Google Fonts Robato -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Google Fonts Ewert -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ewert&family=Roboto:ital,wght@1,300&display=swap"
       rel="stylesheet"
     />
 
@@ -25,6 +34,33 @@
     <link rel="stylesheet" href="./output.css" />
   </head>
   <body>
-    <p class="text-techCareer-green font-testFont p-4 m-4">Hello World</p>
+    <!-- color -->
+
+    <p class="text-sky-800 text-2xl p-3 m-2">Colored Text</p>
+
+    <!-- Text -->
+    <p class="uppercase p-3 m-2">Uppercase</p>
+    <p class="lowercase p-3 m-2">Lowercase</p>
+    <p class="italic p-3 m-2">italic</p>
+    <p class="font-bold p-3 m-2">Bold</p>
+    <p class="text-start text-red-500 p-3 m-2">Start</p>
+    <p class="text-center text-red-500 p-3 m-2">Center</p>
+    <p class="text-end text-red-500 p-3 m-2">End</p>
+    <p class="hover:text-techCareer-green p-3 m-2 w-fit">Hover Text</p>
+
+    <!-- Border -->
+
+    <p
+      class="border-4 border-blue-700 shadow-xl hover:text-blue-700 hover:bg-cyan-500 p-4 w-fit mx-auto"
+    >
+      Border Hover Text
+    </p>
+
+    <!-- Different Fonts -->
+    <p class="text-techCareer-green font-robatoFont text-2xl p-3 m-2">
+      Robato Font
+    </p>
+
+    <p class="font-ewertFont text-2xl p-3 m-2 w-fit">Ewert Font</p>
   </body>
 </html>

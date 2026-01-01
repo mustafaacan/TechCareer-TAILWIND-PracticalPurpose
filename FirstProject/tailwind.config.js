@@ -10,7 +10,8 @@ module.exports = {
         "techCareer-green": "#00C26D",
       },
       fontFamily: {
-        testFont: ['Roboto', 'sans-serif'],
+        robatoFont: ['Roboto', 'sans-serif'],
+        ewertFont:['Ewert', 'serif',],
         open: ['Open Sans', 'sans-serif'],
       },
     },
