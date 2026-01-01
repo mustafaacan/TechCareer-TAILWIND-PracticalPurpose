@@ -34,4 +34,6 @@ While creating project, version 3.4.17 has been used for Tailwind. For more deta
 ## Close
 
 for MacOs --> control + C
+
+
 for Windows --> CTRL + C
