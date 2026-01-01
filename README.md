@@ -3,6 +3,8 @@ Just Practical Purposes for more example, please visit https://www.techcareer.ne
 
 # TechCareer-Tailwind-PracticalPurpose
 
-While creating project, version 3.4.17 has used for Tailwind. For more detailed creation steps, please follow the Bash comment on the official website
+While creating project, version 3.4.17 has been used for Tailwind. For more detailed creation steps, please follow the Bash comment on the official website
 
-**https://v3.tailwindcss.com/docs/guides/vite**
+**https://v3.tailwindcss.com/docs/installation**
+
+**https://tailwindcss.com/blog/standalone-cli**
