@@ -29,4 +29,9 @@ While creating project, version 3.4.17 has been used for Tailwind. For more deta
 1) Open the terminal. 
 2) If you are not on the right working path, reach out to correct path by using "cd" bash command key.
 3) For this project, you can use "npm run tailwind" as bash command.
-4) Once build operation completed, open your project on live server. For suggestion, you may use Live Server pluggin on VS Code. 
+4) Once build operation completed, open your project on live server. For suggestion, you may use Live Server pluggin on VS Code.
+
+## Close
+
+for MacOs --> control + C
+for Windows --> CTRL + C
