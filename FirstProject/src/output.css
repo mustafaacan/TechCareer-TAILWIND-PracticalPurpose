@@ -566,6 +566,14 @@ video {
   position: relative;
 }
 
+.m-10 {
+  margin: 2.5rem;
+}
+
+.m-4 {
+  margin: 1rem;
+}
+
 .block {
   display: block;
 }
@@ -596,6 +604,18 @@ video {
 
 .border {
   border-width: 1px;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.font-testFont {
+  font-family: Roboto, sans-serif;
 }
 
 .text-techCareer-green {
